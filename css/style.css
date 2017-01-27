@@ -2851,3 +2851,10 @@ a.btn.btn-block.btn-info.krible_formrequest_button {
   font-size: 14px;
   text-align: center;
 }
+.videos{
+  display: flex;
+  justify-content: space-around;
+}
+.footer-section{
+  padding-bottom: 40px;
+}
